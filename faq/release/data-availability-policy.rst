@@ -13,11 +13,11 @@ these data.  These are described below.
 |                  | | or have reached an owner-agreed public |                                           |
 |                  | | release date.                          |                                           |
 +------------------+------------------------------------------+-------------------------------------------+
-| **Confidential** | | Data owner requires and indicates that | | Data are not available publicly through |
+| **Private**      | | Data owner requires and indicates that | | Data are not available publicly through |
 |                  | | confidentiality is required until a    | | any means. A data release date is       |
-|                  | | release date or publication in the     | | recorded for the data, which are        |
-|                  | | literature, whichever comes earlier.   | | subsequently and automatically released |
-|                  |                                          | | as **Public** on **reaching this date** |
+|                  | | release date or being cited or made    | | recorded for the data, which are        |
+|                  | | available online in a publication by   | | subsequently and automatically released |
+|                  | | a submitter, whichever comes earlier.  | | as **Public** on **reaching this date** |
 |                  |                                          | | or **when cited online** or **in a**    |
 |                  |                                          | | **publication prior to this date**. In  |
 |                  |                                          | | the event that a release date must be   |
