@@ -205,10 +205,10 @@ For example, the following manifest file represents a multi-fastq submission for
  "platform": TODO,
  "instrument": TODO,
  "insert_size": TODO,
- "libraryName": TODO,
- "library-source": TODO,
+ "library_name": TODO,
+ "library_source": TODO,
  "library_selection": TODO,
- "libraryStrategy": TODO,
+ "library_strategy": TODO,
  "fastq": [
    {
      "value": "single_cell_S1_L001_I1_001.fastq.gz",
